@@ -1,4 +1,8 @@
 public static main()
 {
   Console.Writeline("Hello World!");
+  while(True)
+  {
+       Console.Writeline("Hello World!");
+  }
 }
